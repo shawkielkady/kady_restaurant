@@ -1,2 +1,2 @@
-# kady_git
-my_kady_git
+# restaurant landing page
+show design https://shawkielkady.github.io/kady_restaurant/
